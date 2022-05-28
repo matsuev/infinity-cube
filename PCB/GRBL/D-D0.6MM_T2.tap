@@ -1,0 +1,86 @@
+;	              Name: D-D0.6MM_T2
+;	              Tool: Ñגונכמ (O0.6 לל)
+;	    Tool passDepth: 2
+;	     Tool stepover: 0
+;	Tool feedRate mm/s: 0
+;	             Depth: 2
+;	              Side: Top
+G21 G17 G90
+M3 S12000
+G0Z20
+X17.1Y6.4
+Z0
+G1Z-2.173F600
+G0Z3
+Y8.94
+Z0
+G1Z-2.173
+G0Z3
+Y11.48
+Z0
+G1Z-2.173
+G0Z3
+Y14.02
+Z0
+G1Z-2.173
+G0Z3
+Y16.56
+Z0
+G1Z-2.173
+G0Z3
+Y19.1
+Z0
+G1Z-2.173
+G0Z3
+Y21.64
+Z0
+G1Z-2.173
+G0Z3
+Y24.18
+Z0
+G1Z-2.173
+G0Z3
+Y26.72
+Z0
+G1Z-2.173
+G0Z3
+X24.72
+Z0
+G1Z-2.173
+G0Z3
+Y24.18
+Z0
+G1Z-2.173
+G0Z3
+Y21.64
+Z0
+G1Z-2.173
+G0Z3
+Y19.1
+Z0
+G1Z-2.173
+G0Z3
+Y16.56
+Z0
+G1Z-2.173
+G0Z3
+Y14.02
+Z0
+G1Z-2.173
+G0Z3
+Y11.48
+Z0
+G1Z-2.173
+G0Z3
+Y8.94
+Z0
+G1Z-2.173
+G0Z3
+Y6.4
+Z0
+G1Z-2.173
+G0Z3
+Z20
+X0Y0
+M5
+M30
